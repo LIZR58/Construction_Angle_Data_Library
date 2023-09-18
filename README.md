@@ -1,5 +1,5 @@
-# Construction_Ergonomic_Data_Library (CEL dataset)
-This dataset is developed from CML (Construction Motion Data Library), which is a public and integrated motion dataset for on-site activity. In specific, we employed the constructed angle calculator (released on GitHub also) and the 20 joints system-based skeleton data from CML. The motion data storaged in the CML dataset contains over 4333 samples and 53 types of activities tightly related to construction operations, ensuring that the calculation result, i.e., this Construction Angle Data Library, is capable for the representation of major activities in construction from the perspective of body segments angle.
+# Extracted-behavioral-information-from-CML-dataset
+This dataset is extracted from CML (Construction Motion Data Library), which is a public and integrated motion dataset for on-site activity. In specific, we employed the constructed angle calculator (released on GitHub also) and the 20 joints system-based skeleton data from CML. The motion data storaged in the CML dataset contains over 4333 samples and 53 types of activities tightly related to construction operations, ensuring that the calculation result, i.e., this Construction Angle Data Library, is capable for the representation of major activities in construction from the perspective of body segments angle.
 
 The CAL dataset is mainly developed for the automated ergonomic assessment under the REBA (Rapid Entire Body Assessment) framework by Sue Hignett in 2000 (https://doi.org/10.1016/S0003-6870(99)00039-3). This dataset contains 15 submodules (angle/height difference in detail) of the 5 considered  assessment modules (body segments) in the original REBA.
 
@@ -18,4 +18,4 @@ You can find out the folder "20_nodes" from the first zip "Construction_Related_
 ![image](https://github.com/LIZR58/Construction_Ergonomic_Data_Library/assets/133872933/2e544726-1554-4bf7-808c-3d2bec11cca3)
 
 
-If any institution or individual is goint to use CEL database for commercial activity or research (if acceptable and reasonable), please inform me by Email for permission first and properly add citation.
+If any institution or individual is goint to use our database for commercial activity or research (if acceptable and reasonable), please inform me by Email for permission first and properly add citation.
